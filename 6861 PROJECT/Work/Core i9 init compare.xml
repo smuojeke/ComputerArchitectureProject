@@ -1,0 +1,1346 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>admin</Author>
+  <LastAuthor>admin</LastAuthor>
+  <Created>2017-11-25T21:13:21Z</Created>
+  <LastSaved>2017-11-25T18:14:25Z</LastSaved>
+  <Version>14.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>9315</WindowHeight>
+  <WindowWidth>9705</WindowWidth>
+  <WindowTopX>270</WindowTopX>
+  <WindowTopY>675</WindowTopY>
+  <TabRatio>82</TabRatio>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m31218496">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1" ss:Underline="Single"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m31218516">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1" ss:Underline="Single"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m31218536">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1" ss:Underline="Single"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m31218556">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1" ss:Underline="Single"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m31218616">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1" ss:Underline="Single"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m31218636">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1" ss:Underline="Single"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m31218656">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1" ss:Underline="Single"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m31218676">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1" ss:Underline="Single"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m32916096">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1" ss:Underline="Single"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m32916116">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1" ss:Underline="Single"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m32916136">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1" ss:Underline="Single"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m32916156">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1" ss:Underline="Single"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m32916176">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1" ss:Underline="Single"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m31218176">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" ss:Bold="1" ss:Underline="Single"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m31218196">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" ss:Bold="1" ss:Underline="Single"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m31218216">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" ss:Bold="1" ss:Underline="Single"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m31218276">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1" ss:Underline="Single"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m31218296">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1" ss:Underline="Single"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m31218316">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1" ss:Underline="Single"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m32915456">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1" ss:Underline="Single"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m32915476">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" ss:Bold="1" ss:Underline="Single"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m32915496">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" ss:Bold="1" ss:Underline="Single"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m32915516">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" ss:Bold="1" ss:Underline="Single"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m32915536">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" ss:Bold="1" ss:Underline="Single"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m32915556">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1" ss:Underline="Single"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m32915576">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1" ss:Underline="Single"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m32915596">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1" ss:Underline="Single"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m32915616">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1" ss:Underline="Single"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m80965096">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1" ss:Underline="Single"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m80965116">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1" ss:Underline="Single"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m80965136">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1" ss:Underline="Single"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m80964096">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" ss:Bold="1" ss:Underline="Single"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m80702304">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" ss:Bold="1" ss:Underline="Single"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m80702324">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" ss:Bold="1" ss:Underline="Single"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m80702344">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" ss:Bold="1" ss:Underline="Single"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m80702364">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" ss:Bold="1" ss:Underline="Single"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m80702120">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" ss:Bold="1" ss:Underline="Single"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m80702140">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" ss:Bold="1" ss:Underline="Single"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m80702160">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" ss:Bold="1" ss:Underline="Single"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m80702180">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" ss:Bold="1" ss:Underline="Single"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s66">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" ss:Color="#0000FF"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s68">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s77">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#0000FF"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s82">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s84">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s88">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1" ss:Underline="Single"/>
+  </Style>
+  <Style ss:ID="s90">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#0000FF"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s91">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="15" ss:ExpandedRowCount="58" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="275.25" ss:autofitwidth="1"/>
+   <Column ss:AutoFitWidth="0" ss:Width="165.75" ss:autofitwidth="1"/>
+   <Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="163.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="138.75"/>
+   <Column ss:Index="7" ss:AutoFitWidth="0" ss:Width="258"/>
+   <Column ss:AutoFitWidth="0" ss:Width="113.25"/>
+   <Column ss:Index="10" ss:AutoFitWidth="0" ss:Width="260.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="115.5"/>
+   <Column ss:Index="13" ss:AutoFitWidth="0" ss:Width="231.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="100.5"/>
+   <Row ss:Height="12.75" ss:StyleID="s62">
+    <Cell ss:MergeAcross="2"><Data ss:Type="String">                         ARK | Compare Intel® Products                     </Data></Cell>
+    <Cell ss:MergeAcross="2"><Data ss:Type="String">                         ARK | Compare Intel® Products                     </Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s84"><Data ss:Type="String">                         ARK | Compare Intel® Products                     </Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s84"><Data ss:Type="String">                         ARK | Compare Intel® Products                     </Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s84"><Data ss:Type="String">                         ARK | Compare Intel® Products                     </Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="2" ss:StyleID="s65"><Data ss:Type="String">                     11/23/2017 4:17:04 PM                 </Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s65"><Data ss:Type="String">                     11/25/2017 9:47:59 AM                 </Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s65"><Data ss:Type="String">                     11/25/2017 9:45:58 AM                 </Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s65"><Data ss:Type="String">                     11/25/2017 10:00:06 AM                 </Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s65"><Data ss:Type="String">                     11/23/2017 5:02:03 PM                 </Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s66" ss:HRef="https://ark.intel.com/products/123613/Intel-Core-i9-7900X-X-series-Processor-13_75M-Cache-up-to-4_30-GHz"><Data
+      ss:Type="String">Intel® Core™ i9-7900X X-series Processor (13.75M Cache, up to 4.30 GHz)</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s66" ss:HRef="https://ark.intel.com/products/126240/Intel-Core-i9-7920X-X-series-Processor-16_50M-Cache-up-to-4_30-GHz"><Data
+      ss:Type="String">Intel® Core™ i9-7920X X-series Processor (16.50M Cache, up to 4.30 GHz)</Data></Cell>
+    <Cell ss:Index="8" ss:StyleID="s77" ss:HRef="https://ark.intel.com/products/126695/Intel-Core-i9-7940X-X-series-Processor-19_25M-Cache-up-to-4_30-GHz"><Data
+      ss:Type="String">Intel® Core™ i9-7940X X-series Processor (19.25M Cache, up to 4.30 GHz)</Data></Cell>
+    <Cell ss:Index="11" ss:StyleID="s77" ss:HRef="https://ark.intel.com/products/126697/Intel-Core-i9-7960X-X-series-Processor-22M-Cache-up-to-4_20-GHz"><Data
+      ss:Type="String">Intel® Core™ i9-7960X X-series Processor (22M Cache, up to 4.20 GHz)</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s77" ss:HRef="https://ark.intel.com/products/126699/Intel-Core-i9-7980XE-Extreme-Edition-Processor-24_75M-Cache-up-to-4_20-GHz"><Data
+      ss:Type="String">Intel® Core™ i9-7980XE Extreme Edition Processor (24.75M Cache, up to 4.20 GHz)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Code Name</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String"> Skylake                    </Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s68"><Data ss:Type="String">Code Name</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String"> Skylake                    </Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s68"><Data ss:Type="String">Code Name</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String"> Skylake                    </Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s68"><Data ss:Type="String">Code Name</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String"> Skylake                    </Data></Cell>
+    <Cell ss:Index="13" ss:StyleID="s68"><Data ss:Type="String">Code Name</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String"> Skylake                    </Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="1" ss:StyleID="m80702120"><Data ss:Type="String">Essentials</Data></Cell>
+    <Cell ss:Index="4" ss:MergeAcross="1" ss:StyleID="m31218216"><Data
+      ss:Type="String">Essentials</Data></Cell>
+    <Cell ss:Index="7" ss:MergeAcross="1" ss:StyleID="m80965096"><Data
+      ss:Type="String">Essentials</Data></Cell>
+    <Cell ss:Index="10" ss:MergeAcross="1" ss:StyleID="m31218276"><Data
+      ss:Type="String">Essentials</Data></Cell>
+    <Cell ss:Index="13" ss:MergeAcross="1" ss:StyleID="m31218616"><Data
+      ss:Type="String">Essentials</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Vertical Segment</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Desktop</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s68"><Data ss:Type="String">Vertical Segment</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Desktop</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s68"><Data ss:Type="String">Vertical Segment</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Desktop</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s68"><Data ss:Type="String">Vertical Segment</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Desktop</Data></Cell>
+    <Cell ss:Index="13" ss:StyleID="s68"><Data ss:Type="String">Vertical Segment</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Desktop</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Processor Number</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">i9-7900X</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s68"><Data ss:Type="String">Processor Number</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">i9-7920X</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s68"><Data ss:Type="String">Processor Number</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">i9-7940X</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s68"><Data ss:Type="String">Processor Number</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">i9-7960X</Data></Cell>
+    <Cell ss:Index="13" ss:StyleID="s68"><Data ss:Type="String">Processor Number</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">i9-7980XE</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Status</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Launched</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s68"><Data ss:Type="String">Status</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Launched</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s68"><Data ss:Type="String">Status</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Launched</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s68"><Data ss:Type="String">Status</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Launched</Data></Cell>
+    <Cell ss:Index="13" ss:StyleID="s68"><Data ss:Type="String">Status</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Launched</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Launch Date</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Q2'17</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s68"><Data ss:Type="String">Launch Date</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Q3'17</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s68"><Data ss:Type="String">Launch Date</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Q3'17</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s68"><Data ss:Type="String">Launch Date</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Q3'17</Data></Cell>
+    <Cell ss:Index="13" ss:StyleID="s68"><Data ss:Type="String">Launch Date</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Q3'17</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Lithography</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">14 nm</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s68"><Data ss:Type="String">Lithography</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">14 nm</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s68"><Data ss:Type="String">Recommended Customer Price</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">$1387.00 - $1399.00</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s68"><Data ss:Type="String">Recommended Customer Price</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">$1684.00 - $1699.00</Data></Cell>
+    <Cell ss:Index="13" ss:StyleID="s68"><Data ss:Type="String">Recommended Customer Price</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">$1999.00</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Recommended Customer Price</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">$989.00 - $999.00</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s68"><Data ss:Type="String">Recommended Customer Price</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">$1189.00 - $1199.00</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s91"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:Index="10" ss:StyleID="s91"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:Index="13" ss:StyleID="s91"/>
+    <Cell ss:StyleID="s82"/>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="1" ss:StyleID="m80702140"><Data ss:Type="String">Performance</Data></Cell>
+    <Cell ss:Index="4" ss:MergeAcross="1" ss:StyleID="m31218196"><Data
+      ss:Type="String">Performance</Data></Cell>
+    <Cell ss:Index="7" ss:MergeAcross="1" ss:StyleID="m80965116"><Data
+      ss:Type="String">Performance</Data></Cell>
+    <Cell ss:Index="10" ss:MergeAcross="1" ss:StyleID="m31218296"><Data
+      ss:Type="String">Performance</Data></Cell>
+    <Cell ss:Index="13" ss:MergeAcross="1" ss:StyleID="m31218636"><Data
+      ss:Type="String">Performance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String"># of Cores</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">10</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s68"><Data ss:Type="String"># of Cores</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">12</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s68"><Data ss:Type="String"># of Cores</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">14</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s68"><Data ss:Type="String"># of Cores</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">16</Data></Cell>
+    <Cell ss:Index="13" ss:StyleID="s68"><Data ss:Type="String"># of Cores</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">18</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String"># of Threads</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">20</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s68"><Data ss:Type="String"># of Threads</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">24</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s68"><Data ss:Type="String"># of Threads</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">28</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s68"><Data ss:Type="String"># of Threads</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">32</Data></Cell>
+    <Cell ss:Index="13" ss:StyleID="s68"><Data ss:Type="String"># of Threads</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">36</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Processor Base Frequency</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">3.30 GHz</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s68"><Data ss:Type="String">Processor Base Frequency</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">2.90 GHz</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s68"><Data ss:Type="String">Processor Base Frequency</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">3.10 GHz</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s68"><Data ss:Type="String">Processor Base Frequency</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">2.80 GHz</Data></Cell>
+    <Cell ss:Index="13" ss:StyleID="s68"><Data ss:Type="String">Processor Base Frequency</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">2.60 GHz</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Max Turbo Frequency</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">4.30 GHz</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s68"><Data ss:Type="String">Max Turbo Frequency</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">4.30 GHz</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s68"><Data ss:Type="String">Max Turbo Frequency</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">4.30 GHz</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s68"><Data ss:Type="String">Max Turbo Frequency</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">4.20 GHz</Data></Cell>
+    <Cell ss:Index="13" ss:StyleID="s68"><Data ss:Type="String">Max Turbo Frequency</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">4.20 GHz</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Cache</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">13.75 MB L3</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s68"><Data ss:Type="String">Cache</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">16.5 MB L3</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s68"><Data ss:Type="String">Cache</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">19.25 MB</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s68"><Data ss:Type="String">Cache</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">22 MB</Data></Cell>
+    <Cell ss:Index="13" ss:StyleID="s68"><Data ss:Type="String">Cache</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">24.75 MB</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Bus Speed</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">8 GT/s DMI3</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s68"><Data ss:Type="String">Bus Speed</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">8 GT/s DMI</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s68"><Data ss:Type="String">Bus Speed</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">8 GT/s DMI3</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s68"><Data ss:Type="String">Bus Speed</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">8 GT/s DMI3</Data></Cell>
+    <Cell ss:Index="13" ss:StyleID="s68"><Data ss:Type="String">Bus Speed</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">8 GT/s DMI3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String"># of QPI Links</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s68"><Data ss:Type="String"># of QPI Links</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s68"><Data ss:Type="String"># of QPI Links</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s68"><Data ss:Type="String"># of QPI Links</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:Index="13" ss:StyleID="s68"><Data ss:Type="String"># of QPI Links</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Intel® Turbo Boost Max Technology 3.0 Frequency ‡</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">4.50 GHz</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s68"><Data ss:Type="String">Intel® Turbo Boost Max Technology 3.0 Frequency ‡</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">4.40 GHz</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s68"><Data ss:Type="String">Intel® Turbo Boost Max Technology 3.0 Frequency ‡</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">4.40 GHz</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s68"><Data ss:Type="String">Intel® Turbo Boost Max Technology 3.0 Frequency ‡</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">4.40 GHz</Data></Cell>
+    <Cell ss:Index="13" ss:StyleID="s68"><Data ss:Type="String">Intel® Turbo Boost Max Technology 3.0 Frequency ‡</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">4.40 GHz</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">TDP</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">140 W</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s68"><Data ss:Type="String">TDP</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">140 W</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s68"><Data ss:Type="String">TDP</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">165 W</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s68"><Data ss:Type="String">TDP</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">165 W</Data></Cell>
+    <Cell ss:Index="13" ss:StyleID="s68"><Data ss:Type="String">TDP</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">165 W</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="1" ss:StyleID="m80702160"><Data ss:Type="String">Supplemental Information</Data></Cell>
+    <Cell ss:Index="4" ss:MergeAcross="1" ss:StyleID="m31218176"><Data
+      ss:Type="String">Supplemental Information</Data></Cell>
+    <Cell ss:Index="7" ss:MergeAcross="1" ss:StyleID="m80965136"><Data
+      ss:Type="String">Supplemental Information</Data></Cell>
+    <Cell ss:Index="10" ss:MergeAcross="1" ss:StyleID="m31218316"><Data
+      ss:Type="String">Supplemental Information</Data></Cell>
+    <Cell ss:Index="13" ss:MergeAcross="1" ss:StyleID="m31218656"><Data
+      ss:Type="String">Supplemental Information</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Embedded Options Available</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">No</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s68"><Data ss:Type="String">Embedded Options Available</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">No</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s68"><Data ss:Type="String">Embedded Options Available</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">No</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s68"><Data ss:Type="String">Embedded Options Available</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">No</Data></Cell>
+    <Cell ss:Index="13" ss:StyleID="s68"><Data ss:Type="String">Embedded Options Available</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">No</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Conflict Free</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s68"><Data ss:Type="String">Conflict Free</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s68"><Data ss:Type="String">Conflict Free</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s68"><Data ss:Type="String">Conflict Free</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="13" ss:StyleID="s68"><Data ss:Type="String">Conflict Free</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Yes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Datasheet</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="https://www.intel.com/content/www/us/en/processors/core/core-technical-resources.html"><Data
+      ss:Type="String">Link</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s68"><Data ss:Type="String">Datasheet</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="https://www.intel.com/content/www/us/en/processors/core/core-technical-resources.html"><Data
+      ss:Type="String">Link</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s68"><Data ss:Type="String">Product Brief</Data></Cell>
+    <Cell ss:StyleID="s77" ss:HRef="https://www.intel.com/content/dam/www/public/us/en/documents/product-briefs/core-x-series-processor-family-product-brief.pdf"><Data
+      ss:Type="String">Link</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s68"><Data ss:Type="String">Product Brief</Data></Cell>
+    <Cell ss:StyleID="s77" ss:HRef="https://www.intel.com/content/dam/www/public/us/en/documents/product-briefs/core-x-series-processor-family-product-brief.pdf"><Data
+      ss:Type="String">Link</Data></Cell>
+    <Cell ss:Index="13" ss:StyleID="s68"><Data ss:Type="String">Product Brief</Data></Cell>
+    <Cell ss:StyleID="s77" ss:HRef="https://www.intel.com/content/dam/www/public/us/en/documents/product-briefs/core-x-series-processor-family-product-brief.pdf"><Data
+      ss:Type="String">Link</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Product Brief</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="https://www.intel.com/content/www/us/en/processors/core/core-x-series-processor-family-product-brief.html"><Data
+      ss:Type="String">Link</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s68"><Data ss:Type="String">Product Brief</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="https://www.intel.com/content/www/us/en/processors/core/core-x-series-processor-family-product-brief.html"><Data
+      ss:Type="String">Link</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s91"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:Index="10" ss:StyleID="s91"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:Index="13" ss:StyleID="s91"/>
+    <Cell ss:StyleID="s90"/>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="1" ss:StyleID="m80702180"><Data ss:Type="String">Memory Specifications</Data></Cell>
+    <Cell ss:Index="4" ss:MergeAcross="1" ss:StyleID="m80964096"><Data
+      ss:Type="String">Memory Specifications</Data></Cell>
+    <Cell ss:Index="7" ss:MergeAcross="1" ss:StyleID="m32915456"><Data
+      ss:Type="String">Memory Specifications</Data></Cell>
+    <Cell ss:Index="10" ss:MergeAcross="1" ss:StyleID="m32916096"><Data
+      ss:Type="String">Memory Specifications</Data></Cell>
+    <Cell ss:Index="13" ss:MergeAcross="1" ss:StyleID="m31218676"><Data
+      ss:Type="String">Memory Specifications</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Max Memory Size (dependent on memory type)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">128 GB</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s68"><Data ss:Type="String">Max Memory Size (dependent on memory type)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">128 GB</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s68"><Data ss:Type="String">Max Memory Size (dependent on memory type)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">128 GB</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s68"><Data ss:Type="String">Max Memory Size (dependent on memory type)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">128 GB</Data></Cell>
+    <Cell ss:Index="13" ss:StyleID="s68"><Data ss:Type="String">Max Memory Size (dependent on memory type)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">128 GB</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Memory Types</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">DDR4-2666</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s68"><Data ss:Type="String">Memory Types</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">DDR4-2666</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s68"><Data ss:Type="String">Memory Types</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">DDR4-2666</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s68"><Data ss:Type="String">Memory Types</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">DDR4-2666</Data></Cell>
+    <Cell ss:Index="13" ss:StyleID="s68"><Data ss:Type="String">Memory Types</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">DDR4-2666</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Max # of Memory Channels</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">4</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s68"><Data ss:Type="String">Max # of Memory Channels</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">4</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s68"><Data ss:Type="String">Max # of Memory Channels</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">4</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s68"><Data ss:Type="String">Max # of Memory Channels</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">4</Data></Cell>
+    <Cell ss:Index="13" ss:StyleID="s68"><Data ss:Type="String">Max # of Memory Channels</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">ECC Memory Supported   ‡</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">No</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s68"><Data ss:Type="String">ECC Memory Supported   ‡</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">No</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s68"><Data ss:Type="String">ECC Memory Supported   ‡</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">No</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s68"><Data ss:Type="String">ECC Memory Supported   ‡</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">No</Data></Cell>
+    <Cell ss:Index="13" ss:StyleID="s68"><Data ss:Type="String">ECC Memory Supported   ‡</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">No</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="1" ss:StyleID="m80702304"><Data ss:Type="String">Expansion Options</Data></Cell>
+    <Cell ss:Index="4" ss:MergeAcross="1" ss:StyleID="m32915536"><Data
+      ss:Type="String">Expansion Options</Data></Cell>
+    <Cell ss:Index="7" ss:MergeAcross="1" ss:StyleID="m32915556"><Data
+      ss:Type="String">Expansion Options</Data></Cell>
+    <Cell ss:Index="10" ss:MergeAcross="1" ss:StyleID="m32916116"><Data
+      ss:Type="String">Expansion Options</Data></Cell>
+    <Cell ss:Index="13" ss:MergeAcross="1" ss:StyleID="m31218496"><Data
+      ss:Type="String">Expansion Options</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Scalability</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">1S Only</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s68"><Data ss:Type="String">Scalability</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">1S Only</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s68"><Data ss:Type="String">Scalability</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">1S Only</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s68"><Data ss:Type="String">Scalability</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">1S Only</Data></Cell>
+    <Cell ss:Index="13" ss:StyleID="s68"><Data ss:Type="String">Scalability</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">1S Only</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">PCI Express Revision</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">3.0</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s68"><Data ss:Type="String">PCI Express Revision</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">3.0</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s68"><Data ss:Type="String">PCI Express Revision</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">3.0</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s68"><Data ss:Type="String">PCI Express Revision</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">3.0</Data></Cell>
+    <Cell ss:Index="13" ss:StyleID="s68"><Data ss:Type="String">PCI Express Revision</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">3.0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Max # of PCI Express Lanes</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">44</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s68"><Data ss:Type="String">Max # of PCI Express Lanes</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">44</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s68"><Data ss:Type="String">Max # of PCI Express Lanes</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">44</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s68"><Data ss:Type="String">Max # of PCI Express Lanes</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">44</Data></Cell>
+    <Cell ss:Index="13" ss:StyleID="s68"><Data ss:Type="String">Max # of PCI Express Lanes</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">44</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="1" ss:StyleID="m80702324"><Data ss:Type="String">Package Specifications</Data></Cell>
+    <Cell ss:Index="4" ss:MergeAcross="1" ss:StyleID="m32915516"><Data
+      ss:Type="String">Package Specifications</Data></Cell>
+    <Cell ss:Index="7" ss:MergeAcross="1" ss:StyleID="m32915576"><Data
+      ss:Type="String">Package Specifications</Data></Cell>
+    <Cell ss:Index="10" ss:MergeAcross="1" ss:StyleID="m32916136"><Data
+      ss:Type="String">Package Specifications</Data></Cell>
+    <Cell ss:Index="13" ss:MergeAcross="1" ss:StyleID="m31218516"><Data
+      ss:Type="String">Package Specifications</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Sockets Supported</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">FCLGA2066</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s68"><Data ss:Type="String">Sockets Supported</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">FCLGA2066</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s68"><Data ss:Type="String">Sockets Supported</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">FCLGA2066</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s68"><Data ss:Type="String">Sockets Supported</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">FCLGA2066</Data></Cell>
+    <Cell ss:Index="13" ss:StyleID="s68"><Data ss:Type="String">Sockets Supported</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">FCLGA2066</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Max CPU Configuration</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">1</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s68"><Data ss:Type="String">Max CPU Configuration</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">1</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s68"><Data ss:Type="String">Max CPU Configuration</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">1</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s68"><Data ss:Type="String">Max CPU Configuration</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">1</Data></Cell>
+    <Cell ss:Index="13" ss:StyleID="s68"><Data ss:Type="String">Max CPU Configuration</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Thermal Solution Specification</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">PCG 2017X</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s68"><Data ss:Type="String">Thermal Solution Specification</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">PCG 2017X</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s68"><Data ss:Type="String">Thermal Solution Specification</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">PCG 2017X</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s68"><Data ss:Type="String">Thermal Solution Specification</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">PCG 2017X</Data></Cell>
+    <Cell ss:Index="13" ss:StyleID="s68"><Data ss:Type="String">Thermal Solution Specification</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">PCG 2017X</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">T&lt;sub&gt;JUNCTION&lt;/sub&gt;</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">95°C</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s68"><Data ss:Type="String">T&lt;sub&gt;JUNCTION&lt;/sub&gt;</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">95°C</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s68"><Data ss:Type="String">T&lt;sub&gt;JUNCTION&lt;/sub&gt;</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">102°C</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s68"><Data ss:Type="String">T&lt;sub&gt;JUNCTION&lt;/sub&gt;</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">98°C</Data></Cell>
+    <Cell ss:Index="13" ss:StyleID="s68"><Data ss:Type="String">T&lt;sub&gt;JUNCTION&lt;/sub&gt;</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">94°C</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Low Halogen Options Available</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">See MDDS</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s68"><Data ss:Type="String">Low Halogen Options Available</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">See MDDS</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s68"><Data ss:Type="String">Low Halogen Options Available</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">See MDDS</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s68"><Data ss:Type="String">Low Halogen Options Available</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">See MDDS</Data></Cell>
+    <Cell ss:Index="13" ss:StyleID="s68"><Data ss:Type="String">Low Halogen Options Available</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">See MDDS</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="1" ss:StyleID="m80702344"><Data ss:Type="String">Advanced Technologies</Data></Cell>
+    <Cell ss:Index="4" ss:MergeAcross="1" ss:StyleID="m32915496"><Data
+      ss:Type="String">Advanced Technologies</Data></Cell>
+    <Cell ss:Index="7" ss:MergeAcross="1" ss:StyleID="m32915596"><Data
+      ss:Type="String">Advanced Technologies</Data></Cell>
+    <Cell ss:Index="10" ss:MergeAcross="1" ss:StyleID="m32916156"><Data
+      ss:Type="String">Advanced Technologies</Data></Cell>
+    <Cell ss:Index="13" ss:MergeAcross="1" ss:StyleID="m31218536"><Data
+      ss:Type="String">Advanced Technologies</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Intel® Optane™ Memory Supported ‡</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s68"><Data ss:Type="String">Intel® Optane™ Memory Supported ‡</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s68"><Data ss:Type="String">Intel® Optane™ Memory Supported ‡</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s68"><Data ss:Type="String">Intel® Optane™ Memory Supported ‡</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="13" ss:StyleID="s68"><Data ss:Type="String">Intel® Optane™ Memory Supported ‡</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Yes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Intel® Turbo Boost Max Technology 3.0 ‡</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s68"><Data ss:Type="String">Intel® Turbo Boost Max Technology 3.0 ‡</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s68"><Data ss:Type="String">Intel® Turbo Boost Max Technology 3.0 ‡</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s68"><Data ss:Type="String">Intel® Turbo Boost Max Technology 3.0 ‡</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="13" ss:StyleID="s68"><Data ss:Type="String">Intel® Turbo Boost Max Technology 3.0 ‡</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Yes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Intel® Turbo Boost Technology</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">2.0</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s68"><Data ss:Type="String">Intel® Turbo Boost Technology</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">2.0</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s68"><Data ss:Type="String">Intel® Turbo Boost Technology</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">2.0</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s68"><Data ss:Type="String">Intel® Turbo Boost Technology</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">2.0</Data></Cell>
+    <Cell ss:Index="13" ss:StyleID="s68"><Data ss:Type="String">Intel® Turbo Boost Technology</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">2.0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Intel® Hyper-Threading Technology ‡</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s68"><Data ss:Type="String">Intel® Hyper-Threading Technology ‡</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s68"><Data ss:Type="String">Intel® Hyper-Threading Technology ‡</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s68"><Data ss:Type="String">Intel® Hyper-Threading Technology ‡</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="13" ss:StyleID="s68"><Data ss:Type="String">Intel® Hyper-Threading Technology ‡</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Yes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Intel® Virtualization Technology (VT-x) ‡</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s68"><Data ss:Type="String">Intel® Virtualization Technology (VT-x) ‡</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s68"><Data ss:Type="String">Intel® Virtualization Technology (VT-x) ‡</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s68"><Data ss:Type="String">Intel® Virtualization Technology (VT-x) ‡</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="13" ss:StyleID="s68"><Data ss:Type="String">Intel® Virtualization Technology (VT-x) ‡</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Yes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Intel® Virtualization Technology for Directed I/O (VT-d) ‡</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s68"><Data ss:Type="String">Intel® Virtualization Technology for Directed I/O (VT-d) ‡</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s68"><Data ss:Type="String">Intel® Virtualization Technology for Directed I/O (VT-d) ‡</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s68"><Data ss:Type="String">Intel® Virtualization Technology for Directed I/O (VT-d) ‡</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="13" ss:StyleID="s68"><Data ss:Type="String">Intel® Virtualization Technology for Directed I/O (VT-d) ‡</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Yes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Intel® 64 ‡</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s68"><Data ss:Type="String">Intel® 64 ‡</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s68"><Data ss:Type="String">Intel® 64 ‡</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s68"><Data ss:Type="String">Intel® 64 ‡</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="13" ss:StyleID="s68"><Data ss:Type="String">Intel® 64 ‡</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Yes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Instruction Set</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">64-bit</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s68"><Data ss:Type="String">Instruction Set</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">64-bit</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s68"><Data ss:Type="String">Instruction Set Extensions</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">SSE4.1/4.2, AVX2, AVX-512</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s68"><Data ss:Type="String">Instruction Set Extensions</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">SSE4.1/4.2, AVX2, AVX-512</Data></Cell>
+    <Cell ss:Index="13" ss:StyleID="s68"><Data ss:Type="String">Instruction Set Extensions</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">SSE4.1/4.2, AVX2, AVX-512</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Instruction Set Extensions</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">SSE4.1/4.2, AVX2, AVX-512</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s68"><Data ss:Type="String">Instruction Set Extensions</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">SSE4.1/4.2, AVX2, AVX-512</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s68"><Data ss:Type="String">Enhanced Intel SpeedStep® Technology</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s68"><Data ss:Type="String">Enhanced Intel SpeedStep® Technology</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="13" ss:StyleID="s68"><Data ss:Type="String">Enhanced Intel SpeedStep® Technology</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Yes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Enhanced Intel SpeedStep® Technology</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s68"><Data ss:Type="String">Enhanced Intel SpeedStep® Technology</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s91"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:Index="10" ss:StyleID="s91"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:Index="13" ss:StyleID="s91"/>
+    <Cell ss:StyleID="s82"/>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="1" ss:StyleID="m80702364"><Data ss:Type="String">Security &amp; Reliability</Data></Cell>
+    <Cell ss:Index="4" ss:MergeAcross="1" ss:StyleID="m32915476"><Data
+      ss:Type="String">Security &amp; Reliability</Data></Cell>
+    <Cell ss:Index="7" ss:MergeAcross="1" ss:StyleID="m32915616"><Data
+      ss:Type="String">Security &amp; Reliability</Data></Cell>
+    <Cell ss:Index="10" ss:MergeAcross="1" ss:StyleID="m32916176"><Data
+      ss:Type="String">Security &amp; Reliability</Data></Cell>
+    <Cell ss:Index="13" ss:MergeAcross="1" ss:StyleID="m31218556"><Data
+      ss:Type="String">Security &amp; Reliability</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Intel® AES New Instructions</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s68"><Data ss:Type="String">Intel® AES New Instructions</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s68"><Data ss:Type="String">Intel® AES New Instructions</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s68"><Data ss:Type="String">Intel® AES New Instructions</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="13" ss:StyleID="s68"><Data ss:Type="String">Intel® AES New Instructions</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Yes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Execute Disable Bit ‡</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s68"><Data ss:Type="String">Execute Disable Bit ‡</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s68"><Data ss:Type="String">Execute Disable Bit ‡</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s68"><Data ss:Type="String">Execute Disable Bit ‡</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="13" ss:StyleID="s68"><Data ss:Type="String">Execute Disable Bit ‡</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Yes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="7" ss:StyleID="s88"/>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <LeftColumnVisible>2</LeftColumnVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>9</ActiveRow>
+     <ActiveCol>9</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

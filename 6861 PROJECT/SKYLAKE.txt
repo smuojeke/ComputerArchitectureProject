@@ -1,0 +1,12 @@
+https://en.wikichip.org/wiki/intel/microarchitectures/broadwell
+https://en.wikichip.org/wiki/intel/microarchitectures/skylake_(client)
+https://en.wikichip.org/wiki/intel/microarchitectures/skylake_(client)
+https://en.wikichip.org/wiki/intel/microarchitectures/kaby_lake
+https://en.wikichip.org/wiki/intel/microarchitectures/coffee_lake
+https://en.wikichip.org/wiki/intel/microarchitectures/cannonlake
+https://www.anandtech.com/show/10183/intels-tick-tock-seemingly-dead-becomes-process-architecture-optimization
+https://www.intel.com/content/dam/www/public/us/en/documents/manuals/64-ia-32-architectures-optimization-manual.pdf
+https://www.intel.ca/content/www/ca/en/products/processors/xeon/scalable/platinum-processors.html
+https://software.intel.com/sites/default/files/managed/39/c5/325462-sdm-vol-1-2abcd-3abcd.pdf
+https://ark.intel.com/products/series/125191/Intel-Xeon-Scalable-Processors#@Intel-Xeon-Scalable-Processors
+https://www.intel.com/content/www/us/en/products/processors/itanium.html

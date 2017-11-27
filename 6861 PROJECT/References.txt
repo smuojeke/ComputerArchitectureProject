@@ -1,0 +1,92 @@
+
+0. Intel® 64 and IA-32 Architectures
+Software Developer’s Manual
+Combined Volumes:
+1, 2A, 2B, 2C, 2D, 3A, 3B, 3C, 3D and 4
+
+1. Best Practice Guide
+Haswell/Broadwell
+Vali Codreanu, SURFsara
+Joerg Hertzer, HLRS
+Cristian Morales, BSC
+Jorge Rodriguez, BSC
+Ole Widar Saastad, University of Oslo
+Martin Stachon, IT4Innovations
+Volker Weinberg (Editor), LRZ
+31-01-2017
+
+2. Xeon E5-2600 v4 series overview
+details of the new Intel Xeon “Broadwell” systems
+
+3. White Paper
+FUJITSU Server PRIMERGY
+Memory Performance of Xeon E5-2600 v4 (BroadwellEP)
+based Systems
+
+4. Intel® 64 and IA-32 Architectures
+Optimization Reference Manual
+
+5. Intel processor architecture Software & Services Group, Developer Products Division january 2013
+...http://community.hartree.stfc.ac.uk/access/content/group/admin/HPC%20Training/Intel%20training%202013/a1_Introduction_Intel_Architecture.pdf
+
+6. Intel® 64 and IA-32 Architectures
+Software Developer’s Manual
+Volume 1:
+Basic Architecture
+
+7. INTRODUCTION TO
+PERFORMANCE
+ANALYSIS
+William Jalby, UVSQ,
+Exascale Computing Research
+
+8. Intel Xeon E7-4800/8800 v4
+Broadwell-EX Platform Guide Silicon mechanics
+
+9. O. Rheinbach, TU Bergakademie Freiberg
+Caches in Intel Broadwell (2014-...)
+
+10. Intel® 64 and IA-32 Architectures
+Software Developer’s Manual
+Volume 2 (2A, 2B, 2C & 2D):
+Instruction Set Reference, A-Z
+
+11. Intel – exciting processor trends for IT and industrial automation
+
+12. Overview of the Intel Xeon and Xeon Phi tecnologies
+V. Ruggiero (v.ruggiero@cineca.it)
+Roma, 20 July 2016
+SuperComputing Applications and Innovation Department
+
+13. TensorFlow* on Modern Intel® Architectures
+Jing Huang and Vivek Rane
+Artificial Intelligence Product Group
+Intel
+
+14. Intel® Architecture and Tools
+JURECA - Tuning for the platform II
+Presenter: Dr. Heinrich Bockhorst
+Date: 18-05-2015
+
+15. Intel® 64 and IA-32 Architectures
+Software Developer’s Manual
+Volume 3 (3A, 3B, 3C & 3D):
+System Programming Guide
+
+16. Intel® 64 and IA-32 Architectures
+Software Developer’s Manual
+Volume 4:
+Model-Specific Registers
+
+17. The microarchitecture of Intel, AMD and
+VIA CPUs
+An optimization guide for assembly programmers and
+compiler makers
+
+SKYLAKE
+
+18. https://web.csl.cornell.edu/courses/ece4750/handouts/ece4750-section-skylake.pdf
+
+19. http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7924286
+
+20. http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7936222
